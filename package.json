@@ -9,7 +9,7 @@
     "command line tool"
   ],
   "bin": {
-    "bitbucker-issue-manager": "bin/runner.js"
+    "bitbucket-issue-manager": "bin/runner.js"
   },
   "main": "bitbucker-issue-manager.js",
   "scripts": {
